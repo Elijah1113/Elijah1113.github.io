@@ -1,6 +1,7 @@
+
 # Elijah Rodriguez's Portfolio
 
-I am a first year electrical engineering major here at CSUF and I plan on graduating in 2028
+I am a first year electrical engineer at CSUF and planning on graduating in 2028
 
 ## Favorite CPSC 120L Labs
 
